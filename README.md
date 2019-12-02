@@ -25,4 +25,4 @@ just follow the error code and in C:\Users\14049\Desktop\fp\pjflask type: pip in
 4.then type: cd C:/Users/14049/Desktop/fp/pjflask<br/>
 5.then type: python pj.py<br/>
 you might receive some error msg when your dependency not fully inject, or library you have not downloaded.<br/>
-just follow the error code and in C:/Users/14049/Desktop/fp/pjflask type: pip install 'flask' or 'flask_socket' depends on error msg<br/>
+just follow the error code in C:/Users/14049/Desktop/fp/pjflask type: pip install 'flask' or 'flask_socket' depends on error msg<br/>
